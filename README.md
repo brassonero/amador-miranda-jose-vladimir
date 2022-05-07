@@ -1,2 +1,2 @@
-# amador-miranda-jose-vladimir
+# Amador Miranda Jose Vladimir
 Diplomado Java
